@@ -1,0 +1,1 @@
+Scalatra code of slides http://www.slideshare.net/desmax74/codemotion-2013-scalatraplayspray
